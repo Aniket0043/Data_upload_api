@@ -22,6 +22,10 @@ Follow the installation instructions for your specific OS.
 
 Start the MongoDB server.
 
+If you prefer not to install MongoDB locally, you can configure the database connection in a .env file. 
+
+Create a .env file in the root directory of your project 
+
 ### Step 3: Start the API
 
 To start the API, run the following command:
